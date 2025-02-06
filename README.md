@@ -7,7 +7,7 @@ The model utilizes the mpmat library for arbitrary-precision arithmetic to compu
 
 
 High Precision**: Approximates the Golden Ratio with up to 150 decimal places.
-Efficient Calculation**: Fibonacci numbers are computed iteratively with **O(n)** time complexity and **O(1)** space complexity.
+Efficient Calculation**: Fibonacci numbers are computed iteratively withO((n) time complexity and O(1) space complexity.
 Optimized for Large N's The larger the value of N the closer the ratio of consecutive Fibonacci numbers approaches the Golden Ratio.
 
 
