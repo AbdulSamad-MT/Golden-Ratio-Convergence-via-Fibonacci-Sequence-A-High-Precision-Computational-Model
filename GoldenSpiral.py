@@ -16,13 +16,9 @@ def golden_ratio_fibonacci_approximation():
     n = 1000
     return fibonacci_ratio(n)
 
-import time
-start_time = time.time()
+
 
 phi_precise = golden_ratio_fibonacci_approximation()
 
-end_time = time.time()
-
-execution_time = end_time - start_time
 print(f"Golden Ratio using Fibonacci approximation with {mp.dps} decimal places:\n{phi_precise}")
 
